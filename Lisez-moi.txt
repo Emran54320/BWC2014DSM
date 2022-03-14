@@ -1,0 +1,50 @@
+---------------------
+Brasil World Cup 2014 DS Manager v1.00 Manuel
+---------------------
+Présentation :
+Brasil World Cup 2014 DS Manager est un manager/agenda non officiel de la coupe du monde de football 2014 de la FIFA se déroulant au Brésil pour sa 20 ème édition pour la Nintendo DS/DS Lite/DSi/DSi XL/2DS/3DS.
+Nécessite un linker DS compatible DLDI pour fonctionner.
+---------------------------------------------------------------
+Installation :
+    * Décompresser l'archive et copier le fichier Brasil_World_Cup_2014_DS_Manager.nds sur votre carte flash.
+    * Copier le dossier /BWCMDS à la racine de votre carte flash.
+    * Le dossier /BWCMDS contient un dossier /Img dans lequel se trouve les 32 GIFs affichés pour les équipes, vous pouvez les remplacer à votre guise en respectant le format GIF 256*192 pixels en 256 couleurs. Le nom du fichier doit corespondre au code FIFA de l'équipe (exemple pour la france, le fichier doit se nommer "fra.gif").
+---------------------------------------------------------------
+Mode d'emploi :
+Au lancement de Brasil World Cup 2014 DS Manager, vous aurez la possibilité de mettre à jour les résultats des matchs grâce à une connexion Wifi préalablement configuré grâce à un jeu pour les DS/DS Lite (Exemple Mario Kart) ou bien les options pour les DSi/DSi XL.
+
+Le menu :
+- Phase de Groupes permet la gestion des matchs de poules.
+- Huitièmes de finale permet la gestion des matchs des huitièmes de finale.
+- Quarts de finale permet la gestion des matchs des quarts de finale.
+- Demi-finales permet la gestion des matchs des demi-finales.
+- Finales permet la gestion de la grand et petite finale.
+- Stades permet d'avoir des informations sur les 12 stades où seront joués tous les matchs.
+- Equipes permet d'avoir des informations sur les 32 équipes qui participent à la coupe du monde.
+
+Description des boutons/icônes:
+- Haut/Bas = Monter et descendre.
+- L/R = Page précédente et Page suivante.
+- Stylet = Sélection des matchs, navigation.
+- Sifflet = Jouer un match puis entrer le score.
+- Gomme = Annuler le résultat d'un match, annuler un match joué.
+- Croix rouge/B = Quitter, retour au menu.
+---------------------------------------------------------------
+Historique des versions :
+
+Version 1.01 (06-06-2014)
+- Correction mineure du fichier "Lisez-moi.txt", ligne 22 - "les 10 stades"=>"les 12 stades".
+- Mise à jour du Classement FIFA du 6 juin 2014, la dernière mise à jour avant le début de la compétition.
+
+Version 1.0 (30-05-2014)
+- Gestion manuelle des scores.
+- Heures, dates, lieux des 64 matchs.
+- Classement automatique des poules. 
+- Qualification automatique (poules et phases finales).
+- Mise à jour des résultats via une connexion Wifi.
+- Photos et informations (ville, capacité, construction, rénovations) des 12 stades.
+- Photos et informations (entraîneur, fondée en, nombre de participations, nombre de titre champion du monde, classement fifa, code fifa, confédération, couleur des maillots) des 32 équipes.
+---------------------------------------------------------------
+Programmation : Cid2Mizard.
+Graphismes : Cid2Mizard.
+Remerciements à Ludo6431, ppiimm123.
